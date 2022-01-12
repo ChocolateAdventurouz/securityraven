@@ -1,6 +1,6 @@
 # I am a junior developer and Microsoft fan! 
 
-__I am trying my best to stop piracy and search for bugs.__
+__I am trying my best to search for bugs.__
 
 
 <img align="right" width="640" height="480" src="https://cdn.dribbble.com/users/144388/screenshots/3452670/coder-society-illustration-dribbble.png">
