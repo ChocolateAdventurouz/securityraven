@@ -10,8 +10,8 @@ __I am trying my best to search for bugs.__
 
 
 
-- 🔭 I’m currently working on Cyper. I am so excited to release it. It is being finished.
-- 🌱 I’m currently learning Visual Basic
+- 🔭 I’m currently working on PyBoot
+- 🌱 I’m currently learning MAKI & C
 - 💬 Ask me about Greek trap! (i hate it, so don't)
 - 📫 How to reach me: Discord: SecurityRaven#2929 - If I start a YouTube channel, I will post it here.
 - ⚡ Fun fact: Did you know that my other name (Rel@m) was born because of the vaporwaves?
